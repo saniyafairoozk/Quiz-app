@@ -1,0 +1,5 @@
+What is the capital of India?|Delhi|Mumbai|Kolkata|Chennai|1
+What is 5 + 3?|5|8|10|15|2
+Which programming language is known as the snake language?|C++|Java|Python|C|3
+Who developed Python?|Elon Musk|Guido van Rossum|Bill Gates|Mark Zuckerberg|2
+Which planet is known as the Red Planet?|Earth|Mars|Jupiter|Venus|2
